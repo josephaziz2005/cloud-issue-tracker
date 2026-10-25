@@ -1,10 +1,18 @@
-[ 
-   { 
-     "id": "ISS-101", 
-     "title": "Unable to access Wi-Fi", 
-     "description": "Connection fails in the teaching lab.", 
-     "priority": "High", 
-     "status": "Open", 
-     "createdAt": "2026-09-01T09:00:00.000Z" 
-   } 
- ]
+[
+  {
+    "id": "ISS-101",
+    "title": "Unable to access Wi-Fi",
+    "description": "Connection fails in the teaching lab.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "id": "ISS-1792918396261",
+    "title": "jgvuygfiuygf",
+    "description": "giygig",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-10-25T08:53:16.261Z"
+  }
+]
